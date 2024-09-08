@@ -14,6 +14,6 @@ public class ScreenmatchApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		
+		System.out.println("Primeiro projeto em Java com Spring");
 	}
 }
